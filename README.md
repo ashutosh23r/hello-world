@@ -1,2 +1,4 @@
 # hello-world
-First repository
+First repository created by me.
+
+Editing readme file.
