@@ -1,4 +1,4 @@
 # hello-world
-First repo created by me.
+First repos created by me.
 
 Editing readme file.
